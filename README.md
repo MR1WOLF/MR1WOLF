@@ -1,6 +1,6 @@
 ### Hello There 👋
-Im An Undergraduate CS Student At Cairo Uni
-Cyber Sec 🔓
+Im An Undergraduate CS Student At Cairo Uni /n
+Cyber Sec 🔓 /n
 Live to Code and Hack 💻
 Some Hobbies:
     Swimming 🏊‍♀️
