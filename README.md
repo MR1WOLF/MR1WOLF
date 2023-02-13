@@ -6,6 +6,7 @@ Cyber Sec 🔓
 Live to Code and Hack 💻
 
 Some Hobbies:
+
     Swimming 🏊‍♀️
     
     Hiking  ⛰
