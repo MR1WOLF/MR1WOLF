@@ -1,0 +1,26 @@
+### Hello There 👋
+Im An Undergraduate CS Student At Cairo Uni
+Cyber Sec 🔓
+Live to Code and Hack 💻
+Some Hobbies:
+    Swimming 🏊‍♀️
+    Hiking  ⛰
+    Driving 🚗
+    Baking  🍰
+    Hacking 🐱‍💻
+    Investing 💹💲
+I Would love to know you, so follow me plz 😃
+<!--
+**MR1WOLF/MR1WOLF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
