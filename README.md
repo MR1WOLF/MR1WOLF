@@ -1,6 +1,6 @@
 ### Hello There 👋
-Im An Undergraduate CS Student At Cairo Uni /n
-Cyber Sec 🔓 /n
+```Im An Undergraduate CS Student At Cairo Uni 
+Cyber Sec 🔓
 Live to Code and Hack 💻
 Some Hobbies:
     Swimming 🏊‍♀️
@@ -9,7 +9,7 @@ Some Hobbies:
     Baking  🍰
     Hacking 🐱‍💻
     Investing 💹💲
-I Would love to know you, so follow me plz 😃
+I Would love to know you, so follow me plz 😃```
 <!--
 **MR1WOLF/MR1WOLF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
