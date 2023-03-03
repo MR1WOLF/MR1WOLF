@@ -1,22 +1,8 @@
 ### Hello There 👋
-Im An Undergraduate CS Student At Cairo Uni 
-
-Cyber Sec 🔓
+Im An Undergraduate CS Student At Cairo University
 
 Live to Code and Hack 💻
 
-Some Hobbies:
+Languages:
 
-    Swimming 🏊‍♀️
-    
-    Hiking  ⛰
-
-    Driving 🚗
-    
-    Baking  🍰
-    
-    Hacking 🐱‍💻
-    
-    Investing 💹💲
-    
-I Would love to know you, so follow me plz 😃
+    https://www.python.org
